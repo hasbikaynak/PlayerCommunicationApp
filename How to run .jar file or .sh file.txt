@@ -1,0 +1,11 @@
+First go to "target" directory
+
+1-) This is for running the .jar file
+PlayerCommunicationApp\target> java -jar PlayerCommunicationApp-1.0-SNAPSHOT.jar
+
+2-) To run the program using the shell script, make sure the start.sh script has executable permissions.
+You can give it executable permissions by running the following command in the terminal:
+chmod +x start.sh
+
+Then, to start the program, run the following command:
+./start.sh
